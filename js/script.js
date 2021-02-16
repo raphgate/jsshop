@@ -1,3 +1,4 @@
+//simple shopping class app in js
 class ProductContainer {
   constructor(image, name, price, description) {
     this.image = image;
